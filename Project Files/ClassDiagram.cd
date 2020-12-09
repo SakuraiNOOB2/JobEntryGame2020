@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CInput" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAQAAAABAAAAAAAAAAAAAAAAAEACAAAAAEA=</HashCode>
+      <FileName>input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CManager" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRenderer" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEZAABAAAAQFBBAAEAAADgAACBEgiEBAADAAAgAAA=</HashCode>
+      <FileName>renderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCamera" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgABAAAAAAAAAAAAAQAAAAACAAAAAAA=</HashCode>
+      <FileName>camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CField" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAAgABAAAAAAAAAAAAAAAAAAACAAAAEAA=</HashCode>
+      <FileName>field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameObject" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAiABAAAAAAAAAAIAAggAIAACAgEAAEA=</HashCode>
+      <FileName>game_object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModel" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACQAAAAAgAAAACAgABAAAABAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPolygon" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAAgABAAAAAAAAAAAAAAAAAAACAAAAEAA=</HashCode>
+      <FileName>polygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="VERTEX_3D" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAgIAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>renderer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MATERIAL" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgAAAQgAAAAAAgAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>renderer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DX11_MODEL_MATERIAL" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>renderer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DX11_SUBSET" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>renderer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LIGHT" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAiAACAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>renderer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MODEL_MATERIAL" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAgAAAA=</HashCode>
+      <FileName>model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SUBSET" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MODEL" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAIAIAAAAAAAAACAAAAAAAAAAAACAAAIAAAAA=</HashCode>
+      <FileName>model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
